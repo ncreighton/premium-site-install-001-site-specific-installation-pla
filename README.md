@@ -1,0 +1,2 @@
+# premium-site-install-001-site-specific-installation-pla
+Stop treating every installation like a cookie-cutter project. Your site is unique — your planning system should be too.  The Site-Specific Installation Planning System is a Notion template built to handle the one-of-a-kind complexities of each installation. It replaces scattered spreadsheets and sticky notes with a centralized, adaptable workspace
